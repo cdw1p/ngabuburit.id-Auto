@@ -1,0 +1,27 @@
+{
+  "name": "ngabuburit.id-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/ngabuburit.id-Auto.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/ngabuburit.id-Auto/issues"
+  },
+  "homepage": "https://github.com/cdw1p/ngabuburit.id-Auto#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cron": "^1.8.2",
+    "faker": "^5.5.3",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1"
+  }
+}
